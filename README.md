@@ -41,33 +41,9 @@ dependencies:
   latlong2: ^0.9.1
 
  ```
- ## Estrutura dos Arquivos
 
-  flutter_maps/
-│
-├── android/
-│
-├── assets/
-│   └── Flutter Maps.png
-│
-├── ios/
-│
-├── lib/
-│   └── main.dart
-│
-├── linux/
-├── macos/
-├── web/
-├── windows/
-│
-├── pubspec.yaml
-├── pubspec.lock
-├── analysis_options.yaml
-├── .gitignore
-└── README.md
-
-```
-
- ```
+ --- 
  ## Print da Tela 
  ![Tela do aplicativo](assets/Flutter%20Maps.png)
+
+ ---
